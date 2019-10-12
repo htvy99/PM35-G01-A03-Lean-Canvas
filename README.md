@@ -5,3 +5,5 @@ Group members:
 3. Thái Vĩnh Tài
 4. Lê Tuấn Khải
 5. Huỳnh Thanh Vy
+
+Description: The lean canvas of Tinder Channels
